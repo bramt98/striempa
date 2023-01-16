@@ -1,0 +1,32 @@
+.lightblue {
+    color: #00afef;
+}
+
+.navbar-brand {
+    color: #00afef !important;
+}
+
+.darkpink {
+    color: #ec268f;
+}
+
+.btn-primary {
+    background-color: #ec268f !important;
+    border-color: #ec268f !important;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #ec268f !important;
+    border-color: #ec268f !important;
+}
+
+.background {
+    background: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
